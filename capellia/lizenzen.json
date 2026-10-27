@@ -1,0 +1,6 @@
+{
+  "format": 1,
+  "schluessel_id": "c9541fc547024174",
+  "daten": "{\"anbieter\":{\"name\":\"Auvellion Software\"},\"art\":\"lizenzstatus\",\"erstellt_am\":\"2026-10-27T14:02:02+00:00\",\"format\":1,\"lizenzen\":{\"50beeab4c7c59fd49eb740d3e54cad0a\":{\"geraete\":[],\"max_geraete\":3,\"meldung\":\"\",\"sperre_ab\":null,\"status\":\"aktiv\",\"vertrag_ende\":\"2027-10-31\"}},\"preise\":[],\"produkt\":\"capellia\"}",
+  "signatur": "7wrEmibVIXPd6M6lpik4B8Tg6ULcdjapIFdwNca8mmeIJ2Ywh6zjmb3WJ7wsS4GJoQZSBTI7hETjVhlRrNtJCg=="
+}
