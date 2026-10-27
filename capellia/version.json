@@ -1,0 +1,6 @@
+{
+  "format": 1,
+  "schluessel_id": "c9541fc547024174",
+  "daten": "{\"art\":\"version\",\"datum\":\"2026-10-27\",\"downloads\":{\"mac\":{\"datei\":\"Capellia-v0.4.1.zip\",\"groesse\":36480078,\"sha256\":\"029519c9cac81354770e91bb902009b19fb4e3b729c0499bccaf4440e7db118d\",\"url\":\"https://github.com/auvellion/auvellion-updates/releases/download/capellia-v0.4.1/Capellia-v0.4.1.zip\"}},\"format\":1,\"hinweise\":\"Lizenzprüfung aktiv\",\"produkt\":\"capellia\",\"version\":\"0.4.1\"}",
+  "signatur": "n0dnHOpAUu/arr4kIciWtkwOdKyB0SA9tklA2f6PFwcpAmmmiRIPH1g3qNjCfqz8EN8Y3FvZ1oKAOVrp98X6Bw=="
+}
