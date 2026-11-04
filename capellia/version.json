@@ -1,6 +1,6 @@
 {
   "format": 1,
   "schluessel_id": "c9541fc547024174",
-  "daten": "{\"art\":\"version\",\"datum\":\"2026-11-04\",\"downloads\":{\"mac\":{\"datei\":\"Capellia-v0.5.0.zip\",\"groesse\":36613444,\"sha256\":\"4aeec8f9c712fd0c216cff071fd9eeb48dad232b198ab27cf3e40b8275f48b45\",\"url\":\"https://github.com/auvellion/auvellion-updates/releases/download/capellia-v0.5.0/Capellia-v0.5.0.zip\"}},\"format\":1,\"hinweise\":\"Lesefrist, vollständiger Datenexport, AGB im Programm\",\"produkt\":\"capellia\",\"version\":\"0.5.0\"}",
-  "signatur": "tT2wAumSycMN0oZX71icfGgWlWVlEesF1qkA9B0Y42aczykVfjSiZlt9g+DH2rahNj3fXtEaUQsfNOWyUxkMAA=="
+  "daten": "{\"art\":\"version\",\"datum\":\"2026-11-04\",\"downloads\":{\"mac\":{\"datei\":\"Capellia-v0.5.1.zip\",\"groesse\":36747594,\"sha256\":\"860d8cadf72f28a59cf0af323a309c74949bdd78f786c5cbdc5241a40910a32c\",\"url\":\"https://github.com/auvellion/auvellion-updates/releases/download/capellia-v0.5.1/Capellia-v0.5.1.zip\"}},\"format\":1,\"hinweise\":\"Lizenzprüfung und Updates im fertigen Programm repariert, öffnet maximiert\",\"produkt\":\"capellia\",\"version\":\"0.5.1\"}",
+  "signatur": "YtkFc7GsoPVbcji8YJYx6ne/sgOPowACdLhvDPsFfvuEIStHaRad6mQeJ/hc8g7vi1cMvXjwehXE8j7lmNwQDA=="
 }
