@@ -1,0 +1,6 @@
+{
+  "format": 1,
+  "schluessel_id": "c9541fc547024174",
+  "daten": "{\"art\":\"version\",\"datum\":\"2026-11-04\",\"downloads\":{\"mac\":{\"datei\":\"pilot-v0.25.1.bin\",\"groesse\":38917182,\"sha256\":\"a39bf8d40dc5517a1f8fa753a30ca9a3105d562249c8f7ed85731610683c8518\",\"url\":\"https://github.com/auvellion/auvellion-updates/releases/download/pilot-v0.25.1/pilot-v0.25.1.bin\"}},\"format\":1,\"hinweise\":\"Größeres Fenster · Klarere Meldung bei Updates\",\"produkt\":\"pilot\",\"version\":\"0.25.1\"}",
+  "signatur": "joi4PgIm9JAXvep6TqDOnn7TpwQMsxEBHiFN9YEKfvVSArl2mxRsVMf/2I3lUxqTfBpkBzS+p3a7q7m4rad4Bg=="
+}
