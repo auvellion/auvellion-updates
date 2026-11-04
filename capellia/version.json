@@ -1,6 +1,6 @@
 {
   "format": 1,
   "schluessel_id": "c9541fc547024174",
-  "daten": "{\"art\":\"version\",\"datum\":\"2026-11-04\",\"downloads\":{\"mac\":{\"datei\":\"Capellia-v0.5.2.zip\",\"groesse\":36747587,\"sha256\":\"7520a0ceb5a588c696a830cc3be7556c9d50984f04b0e58c860fedb32661d6ff\",\"url\":\"https://github.com/auvellion/auvellion-updates/releases/download/capellia-v0.5.2/Capellia-v0.5.2.zip\"}},\"format\":1,\"hinweise\":\"Öffnet auch mit zwei Bildschirmen maximiert auf dem Hauptbildschirm\",\"produkt\":\"capellia\",\"version\":\"0.5.2\"}",
-  "signatur": "RxfcZSecdRDzoD/313d79QXR695CeY9NF5P1+Iiv8RFjtiwJrjIt8N36k2PKKZSqd5tw78fHUIAvwHRmbkR/Dw=="
+  "daten": "{\"art\":\"version\",\"datum\":\"2026-11-04\",\"downloads\":{\"mac\":{\"datei\":\"Capellia-v0.5.3.zip\",\"groesse\":36748219,\"sha256\":\"4af6a4016a4e6bb189437df30f04d5d413300ad76ffcbd4a98f77347c5bd8575\",\"url\":\"https://github.com/auvellion/auvellion-updates/releases/download/capellia-v0.5.3/Capellia-v0.5.3.zip\"}},\"format\":1,\"hinweise\":\"Die Glocke führt jetzt direkt zum Update\",\"produkt\":\"capellia\",\"version\":\"0.5.3\"}",
+  "signatur": "XfoGoe/GLrufc4FpoOAITlc/MNQCLGbJvPWgmZt23zugwhi78VhqcIgmpRNiWRdekWPnJYuoBAytC6GozFc/Dg=="
 }
