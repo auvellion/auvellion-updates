@@ -1,6 +1,6 @@
 {
   "format": 1,
   "schluessel_id": "c9541fc547024174",
-  "daten": "{\"anbieter\":{\"name\":\"Auvellion Software\"},\"art\":\"lizenzstatus\",\"erstellt_am\":\"2026-11-04T20:54:35+01:00\",\"format\":1,\"lizenzen\":{\"50beeab4c7c59fd49eb740d3e54cad0a\":{\"geraete\":[\"807fdcb083e80c73f4f4eca39a2238a5\"],\"max_geraete\":3,\"meldung\":\"\",\"sperre_ab\":null,\"status\":\"aktiv\",\"vertrag_ende\":\"2027-10-31\"}},\"preise\":[],\"produkt\":\"capellia\"}",
-  "signatur": "jjcA62QSvNyQQaiTLsEM0CAagtgxeEh9MqBBBUM5rX9nxbVIiEQ3KubwkeFWcH20nehKn90h7soQPRFYprE3Bw=="
+  "daten": "{\"anbieter\":{\"name\":\"Auvellion Software\",\"zeiten\":\"Mo–Fr 10–18 Uhr\"},\"art\":\"lizenzstatus\",\"erstellt_am\":\"2026-11-04T21:07:07+01:00\",\"format\":1,\"lizenzen\":{\"50beeab4c7c59fd49eb740d3e54cad0a\":{\"geraete\":[\"807fdcb083e80c73f4f4eca39a2238a5\"],\"max_geraete\":3,\"meldung\":\"\",\"sperre_ab\":null,\"status\":\"aktiv\",\"vertrag_ende\":\"2027-10-31\"}},\"preise\":[],\"produkt\":\"capellia\"}",
+  "signatur": "nO7U10Wlde2M+/UgSCOvGzvxK24tssuB6sEFrI1UEsP3YVjkNrV9qE7QOmD66UoahkLXv2xvR7lfn0SlZ4DqBg=="
 }
