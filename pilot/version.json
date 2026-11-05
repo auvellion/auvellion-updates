@@ -1,6 +1,6 @@
 {
   "format": 1,
   "schluessel_id": "c9541fc547024174",
-  "daten": "{\"art\":\"version\",\"datum\":\"2026-11-04\",\"downloads\":{\"mac\":{\"datei\":\"pilot-v0.25.1.bin\",\"groesse\":38917182,\"sha256\":\"a39bf8d40dc5517a1f8fa753a30ca9a3105d562249c8f7ed85731610683c8518\",\"url\":\"https://github.com/auvellion/auvellion-updates/releases/download/pilot-v0.25.1/pilot-v0.25.1.bin\"}},\"format\":1,\"hinweise\":\"Größeres Fenster · Klarere Meldung bei Updates\",\"produkt\":\"pilot\",\"version\":\"0.25.1\"}",
-  "signatur": "joi4PgIm9JAXvep6TqDOnn7TpwQMsxEBHiFN9YEKfvVSArl2mxRsVMf/2I3lUxqTfBpkBzS+p3a7q7m4rad4Bg=="
+  "daten": "{\"art\":\"version\",\"datum\":\"2026-11-05\",\"downloads\":{\"mac\":{\"datei\":\"pilot-v0.25.2.bin\",\"groesse\":38917219,\"sha256\":\"7374de5e5f8724845f6ae471f8897c0da9a39bafd07ff53bf36b26632abff3d3\",\"url\":\"https://github.com/auvellion/auvellion-updates/releases/download/pilot-v0.25.2/pilot-v0.25.2.bin\"},\"windows\":{\"datei\":\"pilot-windows-v0.25.2.bin\",\"groesse\":27222918,\"sha256\":\"089881434d54c1a7d60456c94b3c59b50777ee7dba1a21e3a8c028621a660b25\",\"url\":\"https://github.com/auvellion/auvellion-updates/releases/download/pilot-v0.25.2/pilot-windows-v0.25.2.bin\"}},\"format\":1,\"hinweise\":\"Dienstplan: Eintragen jetzt auch im Salon-Zugang\",\"produkt\":\"pilot\",\"version\":\"0.25.2\"}",
+  "signatur": "Ge9omvrvsiLHBdWToPMIJ0EBY3v7O3Eqozg4Kpd7uQTtCBfc3m3UszUhKFi7J0GEWY/MY5nDqU2laAITFTfSAg=="
 }
