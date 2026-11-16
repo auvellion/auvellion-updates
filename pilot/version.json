@@ -1,6 +1,6 @@
 {
   "format": 1,
   "schluessel_id": "c9541fc547024174",
-  "daten": "{\"art\":\"version\",\"datum\":\"2026-11-16\",\"downloads\":{\"windows\":{\"datei\":\"pilot-windows-v0.26.0.bin\",\"groesse\":28259072,\"sha256\":\"a0fda57c5e400411921013a8cc5c58ce51c7bd8769334fd9bba92141b4528668\",\"url\":\"https://raw.githubusercontent.com/auvellion/auvellion-updates/main/pilot/pilot-windows-v0.26.0.bin\"}},\"format\":1,\"hinweise\":\"E-Mail: Zahlungsaufforderung, Quittung, Posteingang und Steuerbüro\",\"produkt\":\"pilot\",\"version\":\"0.26.0\"}",
-  "signatur": "MJqw1chnkEZ5oavle7N8SuJYwrMraVclBTO3xPIVg5+dVpf0i7iyfnTv8Nnjic3aBc80qUdSegl92AnLaiKEDQ=="
+  "daten": "{\"art\":\"version\",\"datum\":\"2026-11-16\",\"downloads\":{\"mac\":{\"datei\":\"pilot-v0.26.0.bin\",\"groesse\":39628683,\"sha256\":\"26c4ace12494d07f6abfb097d3adcd7a5e6d9982e3ea3a1bb24e8a615fda5758\",\"url\":\"https://github.com/auvellion/auvellion-updates/releases/download/pilot-v0.26.0/pilot-v0.26.0.bin\"},\"windows\":{\"datei\":\"pilot-windows-v0.26.0.bin\",\"groesse\":28259072,\"sha256\":\"a0fda57c5e400411921013a8cc5c58ce51c7bd8769334fd9bba92141b4528668\",\"url\":\"https://raw.githubusercontent.com/auvellion/auvellion-updates/main/pilot/pilot-windows-v0.26.0.bin\"}},\"format\":1,\"hinweise\":\"E-Mail: Zahlungsaufforderung, Quittung, Posteingang und Steuerbüro\",\"produkt\":\"pilot\",\"version\":\"0.26.0\"}",
+  "signatur": "7xLyRd2LwxC4DOD9lzB2VQXkJwua8ytIBhUnnE08IFbzv4/HZuaHt9B3z75E09w2Vv4DR0VBT3uGX/dD+h5YDA=="
 }
