@@ -1,6 +1,6 @@
 {
   "format": 1,
   "schluessel_id": "c9541fc547024174",
-  "daten": "{\"art\":\"version\",\"datum\":\"2026-11-16\",\"downloads\":{\"windows\":{\"datei\":\"pilot-windows-v0.25.3.bin\",\"groesse\":27836709,\"sha256\":\"baa76f9d78291d21ea43790f63f900e6e8b743189de2299863db22ec40530f94\",\"url\":\"https://raw.githubusercontent.com/auvellion/auvellion-updates/main/pilot/pilot-windows-v0.25.3.bin\"}},\"format\":1,\"hinweise\":\"Windows: flüssigere Darstellung und Scrollbars im Stil des Programms\",\"produkt\":\"pilot\",\"version\":\"0.25.3\"}",
-  "signatur": "XjfDzheXYidBAKj3cRYACSr7YspnfvLSZbJEiv1NInjDDTYasf2spOxqtYme76hIdCi5ChVIcduRWMbgPjBTDw=="
+  "daten": "{\"art\":\"version\",\"datum\":\"2026-11-16\",\"downloads\":{\"windows\":{\"datei\":\"pilot-windows-v0.26.0.bin\",\"groesse\":28259072,\"sha256\":\"a0fda57c5e400411921013a8cc5c58ce51c7bd8769334fd9bba92141b4528668\",\"url\":\"https://raw.githubusercontent.com/auvellion/auvellion-updates/main/pilot/pilot-windows-v0.26.0.bin\"}},\"format\":1,\"hinweise\":\"E-Mail: Zahlungsaufforderung, Quittung, Posteingang und Steuerbüro\",\"produkt\":\"pilot\",\"version\":\"0.26.0\"}",
+  "signatur": "MJqw1chnkEZ5oavle7N8SuJYwrMraVclBTO3xPIVg5+dVpf0i7iyfnTv8Nnjic3aBc80qUdSegl92AnLaiKEDQ=="
 }
