@@ -1,6 +1,6 @@
 {
   "format": 1,
   "schluessel_id": "c9541fc547024174",
-  "daten": "{\"art\":\"version\",\"datum\":\"2026-11-18\",\"downloads\":{\"mac\":{\"datei\":\"pilot-v0.26.1.bin\",\"groesse\":39627797,\"sha256\":\"1fb7e971cbc3a46f6828e450faaa29efb0910ddd6e38c3f8fa51e314eebc3137\",\"url\":\"https://github.com/auvellion/auvellion-updates/releases/download/pilot-v0.26.1/pilot-v0.26.1.bin\"},\"windows\":{\"datei\":\"pilot-windows-v0.26.1.bin\",\"groesse\":28265079,\"sha256\":\"4902ba76494475a0574d42d1f4674ecb0045aa118bdb2c82b7347d587efd3ad7\",\"url\":\"https://raw.githubusercontent.com/auvellion/auvellion-updates/main/pilot/pilot-windows-v0.26.1.bin\"}},\"format\":1,\"hinweise\":\"Einstellungen in Reitern: Salon, Kalender, Ziele, Finanzen, E-Mail, Zugänge & Sicherheit, Programm\",\"produkt\":\"pilot\",\"version\":\"0.26.1\"}",
-  "signatur": "59AB9pSfPeOVtkQhNHn6uCVqQhktMi3nWC9FyoHIik24KLBib7QRutq90DNyTs6876iOPumvTdPph/o2EibyDQ=="
+  "daten": "{\"art\":\"version\",\"datum\":\"2026-11-26\",\"downloads\":{\"mac\":{\"datei\":\"pilot-v0.26.2.bin\",\"groesse\":39631110,\"sha256\":\"f18e29eaa34ee8bd3f2da6a372c5f485a13d2916621713b52aa31bba0f250589\",\"url\":\"https://github.com/auvellion/auvellion-updates/releases/download/pilot-v0.26.2/pilot-v0.26.2.bin\"},\"windows\":{\"datei\":\"pilot-windows-v0.26.2.bin\",\"groesse\":28271987,\"sha256\":\"a86947e6080f701bc53d3b54eda47fac8237d105e6b9de364c85e522d529b6c9\",\"url\":\"https://raw.githubusercontent.com/auvellion/auvellion-updates/main/pilot/pilot-windows-v0.26.2.bin\"}},\"format\":1,\"hinweise\":\"Umsätze für das Team\",\"produkt\":\"pilot\",\"version\":\"0.26.2\"}",
+  "signatur": "3zKZzli4G4lt2MlOsKcNFAuid0hAWU2jAJwoYUIhiucnxBppUxyJWNNsmMg9kAZrZWzYjpgXh/ewjSgX9lD+CA=="
 }
