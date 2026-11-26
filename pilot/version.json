@@ -1,6 +1,6 @@
 {
   "format": 1,
   "schluessel_id": "c9541fc547024174",
-  "daten": "{\"art\":\"version\",\"datum\":\"2026-11-26\",\"downloads\":{\"mac\":{\"datei\":\"pilot-v0.26.3.bin\",\"groesse\":39633124,\"sha256\":\"94f260c307d05f4dcdb6b8a35cdc43665790329539067a53ef87a2b8335f1064\",\"url\":\"https://github.com/auvellion/auvellion-updates/releases/download/pilot-v0.26.3/pilot-v0.26.3.bin\"},\"windows\":{\"datei\":\"pilot-windows-v0.26.3.bin\",\"groesse\":28293304,\"sha256\":\"74d2e96dca08a65676efdac6dcbfa972ec342b6bb443a7382a14e9c0b5ff8799\",\"url\":\"https://raw.githubusercontent.com/auvellion/auvellion-updates/main/pilot/pilot-windows-v0.26.3.bin\"}},\"format\":1,\"hinweise\":\"Umsätze im Detail\",\"produkt\":\"pilot\",\"version\":\"0.26.3\"}",
-  "signatur": "UIXmSCBbVrqErR4e+c4w0UnvbV5wBBIG6MGnkPdpnX3yLReHUchFLFtB4HllXhc7+GTty8cLhoZGUzOVVTpwCg=="
+  "daten": "{\"art\":\"version\",\"datum\":\"2026-11-26\",\"downloads\":{\"mac\":{\"datei\":\"pilot-v0.26.4.bin\",\"groesse\":39635369,\"sha256\":\"8caa5be2797e29874019e74ec56bf47213ff9e96d7511c62e17bb071ddc85de5\",\"url\":\"https://github.com/auvellion/auvellion-updates/releases/download/pilot-v0.26.4/pilot-v0.26.4.bin\"},\"windows\":{\"datei\":\"pilot-windows-v0.26.4.bin\",\"groesse\":28292781,\"sha256\":\"4d8b2dc2d345dae3dc9c677cf5911af03644aba61f13cdb13f0c89c7d179b31a\",\"url\":\"https://raw.githubusercontent.com/auvellion/auvellion-updates/main/pilot/pilot-windows-v0.26.4.bin\"}},\"format\":1,\"hinweise\":\"Kalender wieder frei bei Absagen\",\"produkt\":\"pilot\",\"version\":\"0.26.4\"}",
+  "signatur": "k7pMhcnfx3sWJXSqWRk9bq/O9bNBCpbSfBcg9oh2T6Zz0//QZ1LQ58+pBh51aVxD9FF1B3tCkhH0nYyesw6+Cw=="
 }
